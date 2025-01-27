@@ -2,4 +2,8 @@ I am file 1
 
 I am file 1 too
 
+<<<<<<< HEAD
 I changed this
+=======
+so person edited
+>>>>>>> 1803045a2f5bc430c587b01a799bbd3c4124c88f
